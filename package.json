@@ -48,7 +48,11 @@
     "bin": "hoge",
     "plugins": [
       "@oclif/plugin-help"
-    ]
+    ],
+    "macos": {
+        "identifier": "hoge"
+
+    }
   },
   "repository": "ryoctrl/hoge",
   "scripts": {
